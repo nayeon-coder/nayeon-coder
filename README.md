@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+안녕하세요 영남대학교 컴퓨터 공학과에 재학 중인 2학년 학생입니다. 잘 부탁드립니다.
+E-mail : vkstk25@naver.com
 <!--
 **nayeon-coder/nayeon-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
